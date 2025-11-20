@@ -1,0 +1,9 @@
+nicegui>=1.4.0
+aiosqlite
+langchain
+langchain-google-genai
+langchain-openai
+chromadb
+rapidfuzz
+python-dotenv
+tiktoken
