@@ -81,6 +81,13 @@
 
 ## 🚀 快速开始 (Quick Start)
 
+
+### 🚀最简单的方式
+
+**右侧release下载zip文件解压，打开Run.Bat即可**
+
+## 🌟 开始
+
 ### 环境要求
 * **OS**: Windows / macOS / Linux
 * **Python**: 3.10 或 3.11 (推荐 3.11)
